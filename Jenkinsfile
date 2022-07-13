@@ -1,1 +1,1 @@
-pipeline("deepak")
+pipeline()
