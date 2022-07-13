@@ -1,6 +1,1 @@
-node {
-    stage("SCM Checkout") {
-        echo "hello"
-    }
-   
-}
+welcome()
